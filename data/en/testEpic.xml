@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
-  <string name="testEpic_otherKey" masx:attributed="" formatted="false">Hadfasdf</string>
+  <string name="testEpic_otherKey" masx:attributed="" formatted="false">Modified</string>
   <string name="testEpic_newKey_web" masx:attributed="" formatted="false">asdf</string>
 </resources>
 
