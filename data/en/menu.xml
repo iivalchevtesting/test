@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="menu_feedbackLink" masx:attributed="" formatted="false">https://support.tado.com/hc/en/requests/new</string>
+  <string name="menu_signoutButton" masx:attributed="" formatted="false">Sign Out</string>
+  <string name="menu_positionButton_web" masx:attributed="" formatted="false">Presence Detection</string>
+  <string name="menu_supportLink" masx:attributed="" formatted="false">https://support.tado.com/hc/en-gb</string>
+  <string name="menu_feedbackButton" masx:attributed="" formatted="false">Feedback</string>
+  <string name="menu_addDeviceButton" masx:attributed="" formatted="false">Add device</string>
+  <string name="menu_settingsButton" masx:attributed="" formatted="false">Settings</string>
+  <string name="menu_supportButton" masx:attributed="" formatted="false">Help Center</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="createUserAccount_signInButton" masx:attributed="" formatted="false">Sign in</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_title_android" masx:attributed="" formatted="false">Go to</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_generalTermsAndConditionsButtonURL" masx:attributed="" formatted="false">https://www.tado.com/en/terms-and-conditions</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_privacyPolicyButtonURL" masx:attributed="" formatted="false">https://www.tado.com/en/privacy-policies</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_generalTermsAndConditionsButton" masx:attributed="" formatted="false">General Terms and Conditions</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="createUserAccount_goToLegalInfoPrompt_privacyPolicyButton" masx:attributed="" formatted="false">Privacy policy</string>
+  <string name="createUserAccount_errors_legacyFullNameFieldEmptyErrorLabel" masx:attributed="" formatted="false">Please enter your first and last name.</string>
+  <string name="createUserAccount_errors_emailFieldEmailInUseErrorLabel" masx:attributed="" formatted="false">The email is already in use with another user account.</string>
+  <string name="createUserAccount_errors_passwordConfirmationFieldNoMatchErrorLabel" masx:attributed="" formatted="false">Your passwords do not match. Please try again.</string>
+  <string name="createUserAccount_errors_emailFieldInvalidErrorLabel" masx:attributed="" formatted="false">This email does not appear to be a valid email address.</string>
+  <string name="createUserAccount_errors_passwordConfirmationFieldEmptyErrorLabel" masx:attributed="" formatted="false">Please re-enter your password.</string>
+  <string name="createUserAccount_errors_passwordFieldInvalidErrorLabel" masx:attributed="" formatted="false">Please choose a password with at least 6 characters.</string>
+  <string name="createUserAccount_errors_emailFieldEmptyErrorLabel" masx:attributed="" formatted="false">Please enter your email address.</string>
+  <string name="createUserAccount_existingAccountLabel" masx:attributed="" formatted="false">Already have a user account?</string>
+  <string name="createUserAccount_passwordField" masx:attributed="" formatted="false">Password</string>
+  <string name="createUserAccount_title" masx:attributed="" formatted="false">Create User Account</string>
+  <string name="createUserAccount_useWithHomeKitLabel_iOS" masx:attributed="" formatted="false">Use tado° with HomeKit</string>
+  <string name="createUserAccount_legalLabel" masx:attributed="attributed" formatted="false">I have read and by creating my user account I accept the **general terms and conditions** and the **privacy policy**.</string>
+  <string name="createUserAccount_legacyFullNameField" masx:attributed="" formatted="false">First and last name</string>
+  <string name="createUserAccount_confirmButton" masx:attributed="" formatted="false">Create user account</string>
+  <string name="createUserAccount_confirmButton_iOS" masx:attributed="" formatted="false">Sign In</string>
+  <string name="createUserAccount_emailField" masx:attributed="" formatted="false">Email address</string>
+  <string name="createUserAccount_passwordConfirmationField" masx:attributed="" formatted="false">Confirm password</string>
+</resources>

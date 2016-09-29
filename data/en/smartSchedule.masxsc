@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><extended-data xmlns="http://tado.com/ns/masx-sidecar/1">
+  <links>
+    <link from="smartSchedule_notifications_deleteTimeBlockMessage" to="smartSchedule_confirmations_deleteTimeblock_message"/>
+    <link from="smartSchedule_notifications_deleteTimeBlockMessage_iOS" to="smartSchedule_confirmations_deleteTimeblock_message_iOS"/>
+    <link from="smartSchedule_notifications_discardChangesMessage" to="smartSchedule_confirmations_discardChanges_message"/>
+    <link from="smartSchedule_notifications_discardChangesMessage_iOS" to="smartSchedule_confirmations_discardChanges_message_iOS"/>
+  </links>
+</extended-data>

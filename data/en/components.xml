@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="components_temperatureOffset_offsetLabel_web" masx:attributed="" formatted="false">Offset</string>
+  <string name="components_temperatureOffset_currentTemperatureLabel_web" masx:attributed="" formatted="false">Current Temperature</string>
+  <string name="components_hotWaterSettingSelector_temperatureLabel" masx:attributed="" formatted="false">Temperature</string>
+  <string name="components_hotWaterSettingSelector_powerLabel" masx:attributed="" formatted="false">Hot Water</string>
+  <string name="components_heatingSettingSelector_temperatureLabel" masx:attributed="" formatted="false">Temperature</string>
+  <string name="components_heatingSettingSelector_powerLabel" masx:attributed="" formatted="false">Heating</string>
+  <string name="components_heatingSettingSelector_frostProtectionLabel" masx:attributed="" formatted="false">Frost Protection</string>
+  <string name="components_passwordField_hideButton" masx:attributed="" formatted="false">Hide</string>
+  <string name="components_passwordField_showButton" masx:attributed="" formatted="false">Show</string>
+  <string name="components_acModeSelector_coolModeLabel" masx:attributed="" formatted="false">Cool</string>
+  <string name="components_acModeSelector_fanModeLabel" masx:attributed="" formatted="false">Fan</string>
+  <string name="components_acModeSelector_dryModeLabel" masx:attributed="" formatted="false">Dry</string>
+  <string name="components_acModeSelector_heatModeLabel" masx:attributed="" formatted="false">Heat</string>
+  <string name="components_acModeSelector_autoModeLabel" masx:attributed="" formatted="false">Auto</string>
+  <string name="components_acSettingSelector_temperatureLabel" masx:attributed="" formatted="false">Temperature</string>
+  <string name="components_acSettingSelector_swingLabel" masx:attributed="" formatted="false">Swing</string>
+  <string name="components_acSettingSelector_powerLabel" masx:attributed="" formatted="false">AC Power</string>
+  <string name="components_acSettingSelector_modeLabel" masx:attributed="" formatted="false">Mode</string>
+  <string name="components_acSettingSelector_fanSpeedLabel" masx:attributed="" formatted="false">Fan Speed</string>
+  <string name="components_orderLink_label_web" masx:attributed="" formatted="false">Go to tado° shop</string>
+  <string name="components_countrySelector_inputFieldLabel_web" masx:attributed="" formatted="false">Country</string>
+  <string name="components_sendingIndicator_startingLabel" masx:attributed="" formatted="false">Starting...</string>
+  <string name="components_sendingIndicator_savingLabel" masx:attributed="" formatted="false">Saving...</string>
+  <string name="components_homeDetails_contactDetailsLabel_web" masx:attributed="" formatted="false">Contact Details</string>
+  <string name="components_homeDetails_homeAddressLabel_web" masx:attributed="" formatted="false">Home Address</string>
+  <string name="components_homeDetails_homeNameLabel_web" masx:attributed="" formatted="false">Home Name</string>
+  <string name="components_loadingIndicator_initialLoadingLabel" masx:attributed="" formatted="false">Loading…</string>
+  <string name="components_loadingIndicator_refreshingLoadingLabel" masx:attributed="" formatted="false">Updating…</string>
+  <string name="components_geoLocationSelector_toggleManualPositionButtonLabel_web" masx:attributed="" formatted="false">Change my home location manually</string>
+  <string name="components_terminationConditionSelector_manualLabel" masx:attributed="" formatted="false">Until ended by user</string>
+  <string name="components_terminationConditionSelector_timerLabel" masx:attributed="" formatted="false">Timer</string>
+  <string name="components_terminationConditionSelector_durationLabel" masx:attributed="" formatted="false">Duration</string>
+  <string name="components_terminationConditionSelector_timerWithDurationLabel" masx:attributed="" formatted="false">Timer ({duration})</string>
+  <string name="components_terminationConditionSelector_automaticLabel" masx:attributed="" formatted="false">Until next automatic change</string>
+</resources>

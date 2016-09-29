@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="homeKit_readMoreURL_iOS" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206193826</string>
+  <string name="homeKit_accessoriesLabel_iOS" masx:attributed="" formatted="false">tado° Accessories</string>
+  <string name="homeKit_accessoriesListLabel_iOS" masx:attributed="" formatted="false">All tado° accessories connected to HomeKit will be displayed here. You can add your accessory to HomeKit through the Home app, using iOS 10 or later.</string>
+  <string name="homeKit_title_iOS" masx:attributed="" formatted="false">HomeKit</string>
+  <string name="homeKit_accessoryDetails_firmwareVersionField_iOS" masx:attributed="" formatted="false">Firmware Version</string>
+  <string name="homeKit_accessoryDetails_nameField_iOS" masx:attributed="" formatted="false">Name</string>
+  <string name="homeKit_accessoryDetails_modelField_iOS" masx:attributed="" formatted="false">Model</string>
+  <string name="homeKit_accessoryDetails_updateFirmwareMessage_iOS" masx:attributed="" formatted="false">The tado° accessory will update to a newer version if available and restart itself automatically. This might take a while.</string>
+  <string name="homeKit_accessoryDetails_serialNoField_iOS" masx:attributed="" formatted="false">Serial Number</string>
+  <string name="homeKit_accessoryDetails_updateFirmwareButton_iOS" masx:attributed="" formatted="false">Update Firmware</string>
+  <string name="homeKit_readMoreLabel_iOS" masx:attributed="" formatted="false">Read more about tado° and HomeKit</string>
+  <string name="homeKit_permission_permissionMessage_iOS" masx:attributed="" formatted="false">Using tado° accessories with HomeKit requires access to your home data.</string>
+  <string name="homeKit_confirmButton_iOS" masx:attributed="" formatted="false">Done</string>
+  <string name="homeKit_searchingLabel_iOS" masx:attributed="" formatted="false">Searching…</string>
+</resources>

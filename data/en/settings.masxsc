@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><extended-data xmlns="http://tado.com/ns/masx-sidecar/1">
+  <links>
+    <link from="settings_accountSettings_errors_nameFieldEmptyErrorLabel_web" to="createUserAccount_errors_legacyFullNameFieldEmptyErrorLabel"/>
+    <link from="settings_accountSettings_errors_emailFieldEmailInUseErrorLabel_web" to="createUserAccount_errors_emailFieldEmailInUseErrorLabel"/>
+    <link from="settings_accountSettings_errors_emailFieldInvalidErrorLabel_web" to="createUserAccount_errors_emailFieldInvalidErrorLabel"/>
+    <link from="settings_accountSettings_errors_emailFieldEmptyErrorLabel_web" to="createUserAccount_errors_emailFieldEmptyErrorLabel"/>
+  </links>
+</extended-data>

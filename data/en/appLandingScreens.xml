@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <!--Do not translate-->
+  <string name="appLandingScreens_airconditioningMoodScreen_getTadoButtonURL" masx:attributed="" formatted="false">https://www.tado.com/shop/cooling</string>
+  <string name="appLandingScreens_airconditioningMoodScreen_message" masx:attributed="" formatted="false">The App for your Smart AC Control</string>
+  <string name="appLandingScreens_airconditioningMoodScreen_getTadoButton" masx:attributed="" formatted="false">Get tado°</string>
+  <string name="appLandingScreens_genericMoodScreen_signInButton" masx:attributed="" formatted="false">Sign in</string>
+  <string name="appLandingScreens_genericMoodScreen_signInButton_iOS" masx:attributed="" formatted="false">Sign In</string>
+  <string name="appLandingScreens_genericMoodScreen_title" masx:attributed="" formatted="false">Comfortable saving</string>
+  <string name="appLandingScreens_genericMoodScreen_message" masx:attributed="" formatted="false">tado° makes sure energy is saved when you’re out and that it’s comfortable when you get home.</string>
+  <string name="appLandingScreens_genericMoodScreen_createAccountButton" masx:attributed="" formatted="false">Create user account</string>
+  <!--Do not translate-->
+  <string name="appLandingScreens_heatingMoodScreen_getTadoButtonURL" masx:attributed="" formatted="false">https://www.tado.com/shop/heating</string>
+  <string name="appLandingScreens_heatingMoodScreen_message" masx:attributed="" formatted="false">The App for your Smart Thermostat</string>
+  <string name="appLandingScreens_heatingMoodScreen_getTadoButton" masx:attributed="" formatted="false">Get tado°</string>
+</resources>

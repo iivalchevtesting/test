@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="mainScreen_earlyStartIndicationLabel" masx:attributed="" formatted="false">Early Start: Heating to {temperature} by {time}.</string>
+</resources>

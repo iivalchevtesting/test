@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="createHome_title" masx:attributed="" formatted="false">Create Home</string>
+  <string name="createHome_joinHome_instructionsLabel" masx:attributed="" formatted="false">If you want to join an existing home please ask the person who has bought or set up tado° at your house to invite you. This can be sent to your email address in the settings of the web app.</string>
+  <string name="createHome_joinHome_title" masx:attributed="" formatted="false">Join existing home</string>
+  <string name="createHome_message_web" masx:attributed="" formatted="false">Create your home to start with tado°.</string>
+  <string name="createHome_homeAddress_countryField" masx:attributed="" formatted="false">Country</string>
+  <string name="createHome_homeAddress_addressLine1Field" masx:attributed="" formatted="false">Address line 1</string>
+  <string name="createHome_homeAddress_errors_addressNotLocated_title" masx:attributed="" formatted="false">Error</string>
+  <string name="createHome_homeAddress_errors_addressNotLocated_message" masx:attributed="" formatted="false">We could not locate your entered address. Please correct the address or retry.</string>
+  <string name="createHome_homeAddress_errors_addressNotLocated_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="createHome_homeAddress_errors_addressNotLocated_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="createHome_homeAddress_errors_postcodeFieldEmpyErrorLabel" masx:attributed="" formatted="false">Enter zip code of your home.</string>
+  <string name="createHome_homeAddress_errors_countryFieldEmptyErrorLabel" masx:attributed="" formatted="false">Enter your country.</string>
+  <string name="createHome_homeAddress_errors_addressLine1FieldEmptyErrorLabel" masx:attributed="" formatted="false">Enter your home address.</string>
+  <string name="createHome_homeAddress_errors_cityFieldEmptyErrorLabel" masx:attributed="" formatted="false">Enter city of your home.</string>
+  <string name="createHome_homeAddress_addressLine2Field" masx:attributed="" formatted="false">Address line 2</string>
+  <string name="createHome_homeAddress_cityField" masx:attributed="" formatted="false">City</string>
+  <string name="createHome_homeAddress_postcodeField" masx:attributed="" formatted="false">Postcode</string>
+  <string name="createHome_homeAddress_myLocation_errors_noAddressForLocationError" masx:attributed="" formatted="false">Could not determine address for current location.</string>
+  <string name="createHome_homeAddress_myLocation_errors_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="createHome_homeAddress_myLocation_errors_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="createHome_homeAddress_myLocation_acceptButton" masx:attributed="" formatted="false">Accept</string>
+  <string name="createHome_homeAddress_myLocation_title" masx:attributed="" formatted="false">My Location</string>
+  <!--Shown if system is not able to determine address for current location.-->
+  <string name="createHome_homeAddress_myLocation_unknownLocationLabel" masx:attributed="" formatted="false">&lt;Unknown location&gt;</string>
+  <string name="createHome_homeAddress_myLocation_loadingLabel" masx:attributed="" formatted="false">Finding your current location</string>
+  <string name="createHome_homeAddress_myLocation_grantLocationPermission_title_win" masx:attributed="" formatted="false">Finding your current location</string>
+  <string name="createHome_homeAddress_myLocation_grantLocationPermission_message_win" masx:attributed="" formatted="false">In order to find you, tado° requires access to your location, which you need to enable in the operating system settings.</string>
+  <string name="createHome_homeAddress_myLocation_grantLocationPermission_confirmButton_win" masx:attributed="" formatted="false">Allow Access</string>
+  <string name="createHome_homeAddress_myLocation_grantLocationPermission_cancelButton_win" masx:attributed="" formatted="false">Cancel</string>
+  <string name="createHome_homeAddress_chooseCountry_errors_searchCountryFieldNoutFoundErrorLabel" masx:attributed="" formatted="false">No country found with this name.</string>
+  <string name="createHome_homeAddress_chooseCountry_title" masx:attributed="" formatted="false">Choose your Country</string>
+  <string name="createHome_homeAddress_chooseCountry_searchField" masx:attributed="" formatted="false">Search</string>
+  <string name="createHome_homeAddress_nextButton" masx:attributed="" formatted="false">Next</string>
+  <string name="createHome_homeAddress_enterAddressLabel" masx:attributed="" formatted="false">Enter your home address</string>
+  <string name="createHome_contactDetails_errors_emailFieldInvalidEmailError" masx:attributed="" formatted="false">This email does not appear to be a valid email address.</string>
+  <string name="createHome_contactDetails_errors_phoneFieldEmptyError" masx:attributed="" formatted="false">Please provide a phone number we can contact you on in case of an emergency.</string>
+  <string name="createHome_contactDetails_errors_emailFieldEmptyError" masx:attributed="" formatted="false">Enter your email address.</string>
+  <string name="createHome_contactDetails_errors_emailFieldAlreadyInUseError" masx:attributed="" formatted="false">The email address is already used for another home.</string>
+  <!--Localize phone number: Eg. +49  for DE, +39 for Italy ....-->
+  <string name="createHome_contactDetails_errors_phoneFieldInvalidPhoneError" masx:attributed="" formatted="false">Please enter a valid telephone number in international format, i.e. +1 123 456 7890.</string>
+  <string name="createHome_contactDetails_errors_nameFieldInvalidError" masx:attributed="" formatted="false">Enter your first and last name.</string>
+  <string name="createHome_contactDetails_phoneField" masx:attributed="" formatted="false">Phone (Format: +1 123  456 78 90)</string>
+  <string name="createHome_contactDetails_nameField" masx:attributed="" formatted="false">First and last name</string>
+  <string name="createHome_contactDetails_message" masx:attributed="" formatted="false">Enter the contact information for {homeName}</string>
+  <string name="createHome_contactDetails_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="createHome_contactDetails_emailField" masx:attributed="" formatted="false">Email</string>
+  <string name="createHome_introduction_instructionsLabel" masx:attributed="" formatted="false">Before you can install or try out tado° you need to create your home.</string>
+  <string name="createHome_introduction_title" masx:attributed="" formatted="false">Welcome {firstname}!</string>
+  <string name="createHome_introduction_joinExistingHomeButton" masx:attributed="" formatted="false">Join existing home</string>
+  <string name="createHome_introduction_createHomeButton" masx:attributed="" formatted="false">Create home</string>
+  <string name="createHome_startButtonLabel_web" masx:attributed="" formatted="false">Start</string>
+  <string name="createHome_homeName_errors_homeNameFieldEmptyError" masx:attributed="" formatted="false">Enter a name for your home.</string>
+  <string name="createHome_homeName_message" masx:attributed="" formatted="false">Choose a name for your home</string>
+  <string name="createHome_homeName_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="createHome_homeName_homeNameField" masx:attributed="" formatted="false">e.g. John’s and Laura’s home</string>
+</resources>

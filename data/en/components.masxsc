@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><extended-data xmlns="http://tado.com/ns/masx-sidecar/1">
+  <links>
+    <link from="components_addressSelector_addressLine1Field_web" to="createHome_homeAddress_addressLine1Field"/>
+    <link from="components_addressSelector_errors_postcodeFieldEmpyErrorLabel_web" to="createHome_homeAddress_errors_postcodeFieldEmpyErrorLabel"/>
+    <link from="components_addressSelector_errors_countryFieldEmptyErrorLabel_web" to="createHome_homeAddress_errors_countryFieldEmptyErrorLabel"/>
+    <link from="components_addressSelector_errors_addressLine1FieldEmptyErrorLabel_web" to="createHome_homeAddress_errors_addressLine1FieldEmptyErrorLabel"/>
+    <link from="components_addressSelector_errors_cityFieldEmptyErrorLabel_web" to="createHome_homeAddress_errors_cityFieldEmptyErrorLabel"/>
+    <link from="components_addressSelector_addressLine2Field_web" to="createHome_homeAddress_addressLine2Field"/>
+    <link from="components_addressSelector_cityField_web" to="createHome_homeAddress_cityField"/>
+    <link from="components_addressSelector_postcodeField_web" to="createHome_homeAddress_postcodeField"/>
+    <link from="components_contactDetails_errors_emailFieldInvalidEmailError_web" to="createHome_contactDetails_errors_emailFieldInvalidEmailError"/>
+    <link from="components_contactDetails_errors_phoneFieldEmptyError_web" to="createHome_contactDetails_errors_phoneFieldEmptyError"/>
+    <link from="components_contactDetails_errors_emailFieldEmptyError_web" to="createHome_contactDetails_errors_emailFieldEmptyError"/>
+    <link from="components_contactDetails_errors_emailFieldAlreadyInUseError_web" to="createHome_contactDetails_errors_emailFieldAlreadyInUseError"/>
+    <link from="components_contactDetails_errors_phoneFieldInvalidPhoneError_web" to="createHome_contactDetails_errors_phoneFieldInvalidPhoneError"/>
+    <link from="components_contactDetails_errors_nameFieldInvalidError_web" to="createHome_contactDetails_errors_nameFieldInvalidError"/>
+    <link from="components_contactDetails_phoneField_web" to="createHome_contactDetails_phoneField"/>
+    <link from="components_contactDetails_nameField_web" to="createHome_contactDetails_nameField"/>
+    <link from="components_contactDetails_emailField_web" to="createHome_contactDetails_emailField"/>
+    <link from="components_homeDetails_errors_homeNameFieldEmptyError_web" to="createHome_homeName_errors_homeNameFieldEmptyError"/>
+    <link from="components_homeDetails_homeNameField_web" to="createHome_homeName_homeNameField"/>
+  </links>
+</extended-data>

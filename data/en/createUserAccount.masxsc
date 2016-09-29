@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><extended-data xmlns="http://tado.com/ns/masx-sidecar/1">
+  <links>
+    <link from="createUserAccount_showPasswordButton" to="components_passwordField_showButton"/>
+    <link from="createUserAccount_hidePasswordButton" to="components_passwordField_hideButton"/>
+  </links>
+</extended-data>

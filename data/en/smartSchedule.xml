@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="smartSchedule_confirmations_deleteTimeblock_message" masx:attributed="" formatted="false">Delete this time block?</string>
+  <string name="smartSchedule_confirmations_deleteTimeblock_message_iOS" masx:attributed="" formatted="false">Are you sure you want to delete this time block?</string>
+  <string name="smartSchedule_confirmations_deleteTimeblock_confirmButton" masx:attributed="" formatted="false">Delete</string>
+  <string name="smartSchedule_confirmations_deleteTimeblock_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="smartSchedule_confirmations_discardChanges_message" masx:attributed="" formatted="false">Discard your changes?</string>
+  <string name="smartSchedule_confirmations_discardChanges_message_iOS" masx:attributed="" formatted="false">Are you sure you want to discard your changes?</string>
+  <string name="smartSchedule_confirmations_discardChanges_confirmButton" masx:attributed="" formatted="false">Discard</string>
+  <string name="smartSchedule_confirmations_discardChanges_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="smartSchedule_title" masx:attributed="" formatted="false">Smart Schedule</string>
+  <string name="smartSchedule_away_autoTemperatureLabel" masx:attributed="" formatted="false">Automatic Away Temperature</string>
+  <string name="smartSchedule_away_ecoDescription" masx:attributed="" formatted="false">When the slider is set to Eco, tado° makes sure your home is not heated too early: When you get home it will take a few minutes until the home temperature is reached. That saves energy.</string>
+  <string name="smartSchedule_away_fixedTemperatureDescription" masx:attributed="" formatted="false">Set a specific temperature. If enabled, automatic adjusting is turned off.</string>
+  <string name="smartSchedule_away_fixedTemperatureLabel" masx:attributed="" formatted="false">Set Away Temperature</string>
+  <string name="smartSchedule_away_balanceLabel" masx:attributed="" formatted="false">Balance</string>
+  <string name="smartSchedule_away_tabInformationMessage" masx:attributed="" formatted="false">Active when nobody is home</string>
+  <string name="smartSchedule_away_ecoLabel" masx:attributed="" formatted="false">Eco</string>
+  <string name="smartSchedule_away_comfortDescription" masx:attributed="" formatted="false">When the slider is set to Comfort, tado° ensures that the home temperature is reached before you arrive home. Of course, this requires more energy.</string>
+  <string name="smartSchedule_away_comfortLabel" masx:attributed="" formatted="false">Comfort</string>
+  <string name="smartSchedule_away_balanceDescription" masx:attributed="" formatted="false">When the slider is set to Balance, tado° will find the best trade-off between comfort and savings for you.</string>
+  <string name="smartSchedule_home_monToSundLabel" masx:attributed="" formatted="false">Monday – Sunday</string>
+  <string name="smartSchedule_home_thursdayLabel" masx:attributed="" formatted="false">Thursday</string>
+  <string name="smartSchedule_home_mondayLabel" masx:attributed="" formatted="false">Monday</string>
+  <string name="smartSchedule_home_wednesdayLabel" masx:attributed="" formatted="false">Wednesday</string>
+  <string name="smartSchedule_home_addTimeBlockShortButton" masx:attributed="" formatted="false">Add</string>
+  <string name="smartSchedule_home_monToFriLabel" masx:attributed="" formatted="false">Monday – Friday</string>
+  <string name="smartSchedule_home_tuesdayLabel" masx:attributed="" formatted="false">Tuesday</string>
+  <string name="smartSchedule_home_sevenDayScheduleLabel" masx:attributed="" formatted="false">Mon, Tue, Wed, Thu, Fri, Sat, Sun</string>
+  <string name="smartSchedule_home_saturdayLabel" masx:attributed="" formatted="false">Saturday</string>
+  <string name="smartSchedule_home_threeDayScheduleLabel" masx:attributed="" formatted="false">Mon – Fri, Sat, Sun</string>
+  <string name="smartSchedule_home_draggingInformationMessage" masx:attributed="" formatted="false">Drag down for more precision</string>
+  <string name="smartSchedule_home_tabInformationMessage" masx:attributed="" formatted="false">Active when somebody is home</string>
+  <string name="smartSchedule_home_scheduleDaysLabel" masx:attributed="" formatted="false">Schedule Days</string>
+  <string name="smartSchedule_home_sundayLabel" masx:attributed="" formatted="false">Sunday</string>
+  <string name="smartSchedule_home_addTimeBlockButton" masx:attributed="" formatted="false">Add time block</string>
+  <string name="smartSchedule_home_fridayLabel" masx:attributed="" formatted="false">Friday</string>
+  <string name="smartSchedule_home_cancelAddingTimeBlockButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="smartSchedule_home_editTimeBlock_advancedSettingsLabel" masx:attributed="" formatted="false">Advanced Settings</string>
+  <string name="smartSchedule_home_editTimeBlock_deleteTimeBlockShortButton" masx:attributed="" formatted="false">Delete</string>
+  <string name="smartSchedule_home_editTimeBlock_title" masx:attributed="" formatted="false">Edit time block</string>
+  <string name="smartSchedule_home_editTimeBlock_title_iOS" masx:attributed="" formatted="false">Edit</string>
+  <string name="smartSchedule_home_editTimeBlock_timesLabel" masx:attributed="" formatted="false">Times</string>
+  <string name="smartSchedule_home_editTimeBlock_advancedSettings_title" masx:attributed="" formatted="false">Advanced Settings</string>
+  <string name="smartSchedule_home_editTimeBlock_advancedSettings_lbcOnLabel" masx:attributed="" formatted="false">The settings are only active while somebody is at home. If nobody is at home, tado° will use the Away setting.</string>
+  <string name="smartSchedule_home_editTimeBlock_advancedSettings_locationBasedControlLabel" masx:attributed="" formatted="false">Location-based Control</string>
+  <string name="smartSchedule_home_editTimeBlock_advancedSettings_lbcOffLabel" masx:attributed="" formatted="false">The settings of this block are used, even if nobody is at home.</string>
+  <string name="smartSchedule_home_editTimeBlock_saveButton" masx:attributed="" formatted="false">Save</string>
+  <!--Seperate key due to different translation for German-->
+  <string name="smartSchedule_home_editTimeBlock_saveButton_iOS" masx:attributed="" formatted="false">Save</string>
+  <string name="smartSchedule_home_editTimeBlock_endField" masx:attributed="" formatted="false">End</string>
+  <string name="smartSchedule_home_editTimeBlock_deleteTimeBlockButton" masx:attributed="" formatted="false">Delete time block</string>
+  <string name="smartSchedule_home_editTimeBlock_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="smartSchedule_home_editTimeBlock_startField" masx:attributed="" formatted="false">Start</string>
+  <string name="smartSchedule_home_oneDayScheduleLabel" masx:attributed="" formatted="false">Mon – Sun</string>
+  <string name="smartSchedule_homeLabel" masx:attributed="" formatted="false">Home</string>
+  <string name="smartSchedule_notifications_changesSavedMessage" masx:attributed="" formatted="false">Changes successfully saved.</string>
+  <string name="smartSchedule_notifications_changesNotSavedMessage" masx:attributed="" formatted="false">Changes could not be saved.</string>
+  <string name="smartSchedule_settings_earlyStartLabel" masx:attributed="" formatted="false">Early Start</string>
+  <string name="smartSchedule_settings_title" masx:attributed="" formatted="false">Settings</string>
+  <string name="smartSchedule_settings_earlyStartDescription" masx:attributed="" formatted="false">If enabled, tado° starts heating early and increases the target temperature to reach the scheduled temperatures on time.</string>
+  <string name="smartSchedule_awayLabel" masx:attributed="" formatted="false">Away</string>
+</resources>

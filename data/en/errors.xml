@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <!--(Internal error code: {errorCode})
+Errorhandling for unexpteded/unparseable responses from the server (where no error message from the server is provided)-->
+  <string name="errors_unexpectedServerResponseError" masx:attributed="" formatted="false">Sorry, something went wrong. The response from the server was unexpected. Please retry. If the problem persists please send us a screenshot of this error message.</string>
+  <string name="errors_noInternetConnection_title" masx:attributed="" formatted="false">Error</string>
+  <string name="errors_noInternetConnection_message" masx:attributed="" formatted="false">Connecting to the server has failed. Please check your Internet connection.</string>
+  <string name="errors_noInternetConnection_confirmButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="errors_connectedToTadoWifi_title" masx:attributed="" formatted="false">Error</string>
+  <string name="errors_connectedToTadoWifi_message" masx:attributed="" formatted="false">It seems that you are still connected to the Wi-Fi of your Smart AC Control. Please disconnect before you continue.</string>
+  <string name="errors_connectedToTadoWifi_confirmButton" masx:attributed="" formatted="false">Continue</string>
+</resources>

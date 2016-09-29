@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="signin_credentialsForm_showPasswordButton" masx:attributed="" formatted="false">Show</string>
+  <!--For the HAGER-BUILD ONLY: Just a link that will open the webapp for Hager https://my.tado.com/login-hager-->
+  <string name="signin_credentialsForm_hagerCreateAccountURL" masx:attributed="" formatted="false">https://my.tado.com/login-hager</string>
+  <!--Should probably not be used: Android: Not used, iOS: ?,  Win: ?, Web: ?-->
+  <string name="signin_credentialsForm_errors_invalidUsernameError" masx:attributed="" formatted="false">Email or username does not exist. Please try again.</string>
+  <!--Should probably not be used: Android: Not used, iOS: ?,  Win: ?, Web: ?-->
+  <string name="signin_credentialsForm_errors_invalidPasswordError" masx:attributed="" formatted="false">The password you have entered is incorrect. Please try again.</string>
+  <string name="signin_credentialsForm_errors_legacyInvalidCredentialsError" masx:attributed="" formatted="false">Your username or password is incorrect.</string>
+  <string name="signin_credentialsForm_promptLabel_web" masx:attributed="" formatted="false">Already have an account? Please sign in.</string>
+  <string name="signin_credentialsForm_forgotPasswordButton" masx:attributed="" formatted="false">Forgot your password?</string>
+  <string name="signin_credentialsForm_newToTadoButton" masx:attributed="" formatted="false">New to tado°?</string>
+  <string name="signin_credentialsForm_passwordField" masx:attributed="" formatted="false">Password</string>
+  <string name="signin_credentialsForm_title" masx:attributed="" formatted="false">Sign In</string>
+  <string name="signin_credentialsForm_title_iOS" masx:attributed="" formatted="false">Sign In</string>
+  <string name="signin_credentialsForm_createAccountButton" masx:attributed="" formatted="false">Create a user account</string>
+  <string name="signin_credentialsForm_useWithHomeKitLabel_iOS" masx:attributed="" formatted="false">Use tado° with HomeKit</string>
+  <string name="signin_credentialsForm_forgotPasswordURL" masx:attributed="" formatted="false">https://my.tado.com/webapp/#/account/reset-password</string>
+  <string name="signin_credentialsForm_hidePasswordButton" masx:attributed="" formatted="false">Hide</string>
+  <string name="signin_credentialsForm_confirmButton" masx:attributed="" formatted="false">Sign in</string>
+  <string name="signin_credentialsForm_confirmButton_iOS" masx:attributed="" formatted="false">Sign In</string>
+  <string name="signin_credentialsForm_staySignedInCheckbox_web" masx:attributed="" formatted="false">Stay signed in</string>
+  <string name="signin_credentialsForm_usernameField" masx:attributed="" formatted="false">Email/Username</string>
+  <string name="signin_forgotPassword_errors_usernameFieldEmptyError" masx:attributed="" formatted="false">Please enter your email or username.</string>
+  <string name="signin_forgotPassword_promptLabel" masx:attributed="" formatted="false">Forgot your password? Please enter your email address or username to request a reset link.</string>
+  <string name="signin_forgotPassword_backButton" masx:attributed="" formatted="false">Back to sign in page</string>
+  <string name="signin_forgotPassword_title" masx:attributed="" formatted="false">Forgot your password?</string>
+  <string name="signin_forgotPassword_confirmButton" masx:attributed="" formatted="false">Request link</string>
+  <string name="signin_forgotPassword_usernameField" masx:attributed="" formatted="false">Email/Username</string>
+  <string name="signin_deviceName_createButton" masx:attributed="" formatted="false">Create</string>
+  <string name="signin_deviceName_existingDevicesLabel" masx:attributed="" formatted="false">Existing devices</string>
+  <string name="signin_deviceName_claimDeviceConfirmation_message" masx:attributed="" formatted="false">Please confirm that from now on you want to use this name for this device.</string>
+  <string name="signin_deviceName_claimDeviceConfirmation_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="signin_deviceName_claimDeviceConfirmation_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="signin_deviceName_promptLabel" masx:attributed="" formatted="false">Choose a name for this device.</string>
+  <string name="signin_deviceName_title" masx:attributed="" formatted="false">Device Name</string>
+  <string name="signin_deviceName_claimButton" masx:attributed="" formatted="false">Claim</string>
+  <string name="signin_deviceName_deviceNameField" masx:attributed="" formatted="false">e.g. Tom’s Phone</string>
+  <string name="signin_deviceName_deviceNameField_iOS" masx:attributed="" formatted="false">e.g. Tom’s iPhone</string>
+</resources>

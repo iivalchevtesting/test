@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="installation_installValve_proceedButton_web" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_errors_wrongInstallationStep_title" masx:attributed="" formatted="false">Oops... you are not at the right step of the installation</string>
+  <string name="installation_errors_wrongInstallationStep_message" masx:attributed="" formatted="false">Either you have already completed this step or you accidently went too far ahead. The next step for you is ‘{nextStep}’.</string>
+  <string name="installation_errors_wrongInstallationStep_confirmButton" masx:attributed="" formatted="false">Go to ‘{nextStep}’</string>
+  <string name="installation_addDevice_addDeviceButton" masx:attributed="" formatted="false">Add device</string>
+  <string name="installation_addDevice_title" masx:attributed="" formatted="false">New installation</string>
+  <string name="installation_addDevice_message" masx:attributed="" formatted="false">There is no device installed in this home yet.</string>
+  <string name="installation_welcome_descriptionLabel_web" masx:attributed="" formatted="false">Here you get help to install your tado°.</string>
+  <string name="installation_welcome_title_web" masx:attributed="" formatted="false">Welcome!</string>
+  <string name="installation_welcome_contactSupportLinkLabel_web" masx:attributed="" formatted="false">Get Help from the Technical Support</string>
+  <string name="installation_welcome_instructionsLinkLabel_web" masx:attributed="" formatted="false">Customized Step-by-Step Instructions</string>
+  <string name="installation_welcome_bookInstallerLinkLabel_web" masx:attributed="" formatted="false">Book an Installer</string>
+  <string name="installation_registerValve_title" masx:attributed="" formatted="false">Please register your tado° Smart Radiator Thermostat</string>
+  <string name="installation_registerValve_message" masx:attributed="" formatted="false">Find the registration information on the Smart Radiator Thermostat or on the card provided by your installer.</string>
+  <string name="installation_registerValve_registerButton" masx:attributed="" formatted="false">Register</string>
+  <string name="installation_registerBridge_title_web" masx:attributed="" formatted="false">Please register your tado° Internet Bridge</string>
+  <string name="installation_registerBridge_message_web" masx:attributed="" formatted="false">Find the registration information on the Internet Bridge or on the card provided by your installer.</string>
+  <string name="installation_registerBridge_registerButton_web" masx:attributed="" formatted="false">Register</string>
+  <string name="installation_registerBridge_helpButton_web" masx:attributed="" formatted="false">Help</string>
+  <string name="installation_sacc_completed_title" masx:attributed="" formatted="false">Congratulations!</string>
+  <string name="installation_sacc_completed_message" masx:attributed="" formatted="false">You have successfully installed your tado° Smart AC Control. Have fun using it!</string>
+  <string name="installation_sacc_completed_readyLabel" masx:attributed="" formatted="false">Ready</string>
+  <string name="installation_sacc_completed_confirmButton" masx:attributed="" formatted="false">Go to app</string>
+  <string name="installation_sacc_positionDevice_deviceOrientation_onWallButton" masx:attributed="" formatted="false">On a wall</string>
+  <string name="installation_sacc_positionDevice_deviceOrientation_onSurfaceButton" masx:attributed="" formatted="false">On a surface</string>
+  <string name="installation_sacc_positionDevice_deviceOrientation_title" masx:attributed="" formatted="false">Positioning</string>
+  <string name="installation_sacc_positionDevice_deviceOrientation_message" masx:attributed="" formatted="false">Please select the positioning of your device.</string>
+  <string name="installation_sacc_positionDevice_title" masx:attributed="" formatted="false">Position Device</string>
+  <string name="installation_sacc_positionDevice_positionOnWall_title" masx:attributed="" formatted="false">On a wall</string>
+  <string name="installation_sacc_positionDevice_positionOnWall_message" masx:attributed="" formatted="false">Guide the cable out on the bottom. Adapt the cable length by storing the cable in the back. Use the adhesive strips for the wall mounting.</string>
+  <string name="installation_sacc_positionDevice_positionOnWall_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_positionDevice_positionOnSurface_title" masx:attributed="" formatted="false">On a surface</string>
+  <string name="installation_sacc_positionDevice_positionOnSurface_message" masx:attributed="" formatted="false">Guide the cable out on the top. Adapt the cable length by storing the cable in the back.</string>
+  <string name="installation_sacc_positionDevice_positionOnSurface_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_positionDevice_findPosition_resendSignalsButton" masx:attributed="" formatted="false">Resend signals</string>
+  <string name="installation_sacc_positionDevice_findPosition_title" masx:attributed="" formatted="false">Find a place for the Smart AC Control</string>
+  <string name="installation_sacc_positionDevice_findPosition_sendSignalButton" masx:attributed="" formatted="false">Send signals</string>
+  <string name="installation_sacc_positionDevice_findPosition_message" masx:attributed="" formatted="false">The Smart AC control will continuously send command signals to the AC to make sure the position you choose works.</string>
+  <string name="installation_sacc_positionDevice_findPosition_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_positionDevice_findPosition_sendingSignalLabel" masx:attributed="" formatted="false">Sending signals…</string>
+  <string name="installation_sacc_firmwareUpdate_description" masx:attributed="" formatted="false">Do not restart the router or unplug the device while updating. The update can take up to 60 minutes.</string>
+  <string name="installation_sacc_firmwareUpdate_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_firmwareUpdate_title" masx:attributed="" formatted="false">Device Update</string>
+  <string name="installation_sacc_firmwareUpdate_message" masx:attributed="" formatted="false">Updating</string>
+  <string name="installation_sacc_firmwareUpdate_updatingLabel" masx:attributed="" formatted="false">Updating</string>
+  <string name="installation_sacc_firmwareUpdate_successLabel" masx:attributed="" formatted="false">Device updated successfully.</string>
+  <string name="installation_sacc_firmwareUpdate_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/205805085</string>
+  <string name="installation_sacc_firmwareUpdate_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_inviteRoommates_successfulInvitationLabel" masx:attributed="" formatted="false">Invitations have been sent successfully.</string>
+  <string name="installation_sacc_inviteRoommates_sectionTitle" masx:attributed="" formatted="false">Your roommates</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailErrors_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailErrors_emailsInvalidMessage" masx:attributed="" formatted="false">These email addresses do not have the right format: {emailAddresses}</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailErrors_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailErrors_usersAlreadyJoinedMessage" masx:attributed="" formatted="false">These users have already joined: {emailAddresses}</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailFieldInvalidEmailError" masx:attributed="" formatted="false">This email address does not have the right format.</string>
+  <string name="installation_sacc_inviteRoommates_errors_emailFieldAlreadyJoinedError" masx:attributed="" formatted="false">This user has already joined.</string>
+  <string name="installation_sacc_inviteRoommates_notNowButton" masx:attributed="" formatted="false">Not now</string>
+  <string name="installation_sacc_inviteRoommates_title" masx:attributed="" formatted="false">Invite your roommates</string>
+  <string name="installation_sacc_inviteRoommates_message" masx:attributed="" formatted="false">Send an invitation to your fellow roommates to allow them control the AC, too.</string>
+  <string name="installation_sacc_inviteRoommates_sendButton" masx:attributed="" formatted="false">Send</string>
+  <string name="installation_sacc_inviteRoommates_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_inviteRoommates_emailField" masx:attributed="" formatted="false">Email addresses</string>
+  <string name="installation_sacc_registerDevice_registration_description" masx:attributed="" formatted="false">Enter the serial number and auth code - find them on the back of the device.</string>
+  <string name="installation_sacc_registerDevice_registration_errors_wrongAuthCodeError" masx:attributed="" formatted="false">Serial number and auth code do not match.</string>
+  <string name="installation_sacc_registerDevice_registration_errors_authCodeFieldEmptyError" masx:attributed="" formatted="false">Please enter the device auth code.</string>
+  <string name="installation_sacc_registerDevice_registration_errors_serialNoFieldEmptyError" masx:attributed="" formatted="false">Please enter the device serial number.</string>
+  <string name="installation_sacc_registerDevice_registration_errors_deviceAlreadyRegisteredError" masx:attributed="" formatted="false">This device is already registered to another home. If the serial number is correct, please contact our support: tado.com/support</string>
+  <string name="installation_sacc_registerDevice_registration_errors_deviceNotSACCError" masx:attributed="" formatted="false">The entered device serial number is not a tado° Smart AC Control.</string>
+  <string name="installation_sacc_registerDevice_registration_authCodeField" masx:attributed="" formatted="false">Auth Code</string>
+  <string name="installation_sacc_registerDevice_registration_title" masx:attributed="" formatted="false">Register Device</string>
+  <string name="installation_sacc_registerDevice_registration_message" masx:attributed="" formatted="false">Register Device</string>
+  <string name="installation_sacc_registerDevice_registration_serialNoField" masx:attributed="" formatted="false">Serial No.</string>
+  <string name="installation_sacc_registerDevice_registration_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_registerDevice_installationOverview_step3Label" masx:attributed="" formatted="false">3 AC Setup</string>
+  <string name="installation_sacc_registerDevice_installationOverview_step4Label" masx:attributed="" formatted="false">4 Position Device</string>
+  <string name="installation_sacc_registerDevice_installationOverview_title" masx:attributed="" formatted="false">Installation Overview</string>
+  <string name="installation_sacc_registerDevice_installationOverview_message" masx:attributed="" formatted="false">Installation in 4 steps</string>
+  <string name="installation_sacc_registerDevice_installationOverview_step1Label" masx:attributed="" formatted="false">1 Register Device</string>
+  <string name="installation_sacc_registerDevice_installationOverview_confirmButton" masx:attributed="" formatted="false">Start</string>
+  <string name="installation_sacc_registerDevice_installationOverview_step2Label" masx:attributed="" formatted="false">2 Connect to Wi-Fi</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_title" masx:attributed="" formatted="false">Test the commands you have just recorded</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_startOver_title" masx:attributed="" formatted="false">Warning</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_startOver_message" masx:attributed="" formatted="false">All recordings will be deleted. Are you sure you want to start over?</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_startOver_confirmButton" masx:attributed="" formatted="false">Start Over</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_startOver_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachRunButton" masx:attributed="" formatted="false">Reteach last run</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_title" masx:attributed="" formatted="false">Reteach</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachMode_title" masx:attributed="" formatted="false">Warning</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachMode_message" masx:attributed="" formatted="false">All recordings for this mode will be deleted. Are you sure you want to reteach {modeName} mode?</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachMode_confirmButton" masx:attributed="" formatted="false">Reteach {modeName} mode</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachMode_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_message" masx:attributed="" formatted="false">Something must have gone wrong while recording.</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_reteachModeButton" masx:attributed="" formatted="false">Reteach {modeName} mode</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_startOverButton" masx:attributed="" formatted="false">Start over</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_commandsDoNotWork_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_doesNotWorkButton" masx:attributed="" formatted="false">Does not work</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_testing_confirmButton" masx:attributed="" formatted="false">Works well</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_title" masx:attributed="" formatted="false">Testing</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_pointTowardsAC_title" masx:attributed="" formatted="false">Point your Smart AC Control towards your AC for testing</string>
+  <string name="installation_sacc_setupAC_testACSettingCommands_pointTowardsAC_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_temperatureLabel_iOS" masx:attributed="" formatted="false">Temperature</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_acPowerLabel" masx:attributed="" formatted="false">AC Power</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_title" masx:attributed="" formatted="false">Testing</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_message" masx:attributed="" formatted="false">Test if your AC responds correctly.</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_doesNotWorkButton" masx:attributed="" formatted="false">Doesn’t work</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_testing_confirmButton" masx:attributed="" formatted="false">Works</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_limitedFunctionality_title" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_limitedFunctionality_message" masx:attributed="" formatted="false">Important Information</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_limitedFunctionality_turnOnOffLabel" masx:attributed="" formatted="false">Please only turn your AC on and off via your tado°.
+
+If you find your AC to be on/off while tado shows the opposite you can resync tado° and your AC via your remote control.</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_limitedFunctionality_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_limitedFunctionality_keepModeLabel" masx:attributed="" formatted="false">Because the remote control interface of your AC is very limited, tado° can only set the temperature if you keep your AC set to cool mode.
+
+If your AC has an Eco or Saver mode, you can also choose to keep your AC set to one of these modes.</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_title" masx:attributed="" formatted="false">Testing</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_notWorking_title" masx:attributed="" formatted="false">Which button did not work?</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_notWorking_powerLabel" masx:attributed="" formatted="false">AC Power</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_notWorking_temperatureUpLabel" masx:attributed="" formatted="false">Temperature up button</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_notWorking_temperatureDownLabel" masx:attributed="" formatted="false">Temperature down button</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_notWorking_confirmButton" masx:attributed="" formatted="false">Reteach</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_pointTowardsAC_title" masx:attributed="" formatted="false">Point the Smart AC Control towards the AC unit</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_pointTowardsAC_message" masx:attributed="" formatted="false">You can test the recorded command signals in the next step.</string>
+  <string name="installation_sacc_setupAC_testKeyCommands_pointTowardsAC_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_title" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_initializingLabel" masx:attributed="" formatted="false">Initializing recording mode</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_errors_recordingError_message" masx:attributed="" formatted="false">Something went wrong. Please try again.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_errors_recordingError_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_title" masx:attributed="" formatted="false">Teaching</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_waitingLabel" masx:attributed="" formatted="false">Waiting for remote control signal</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_noticeLabel" masx:attributed="" formatted="false">Press the remote control button only once in 5 seconds.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordTempDown_title" masx:attributed="" formatted="false">Record Temperature Down</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordTempDown_message" masx:attributed="" formatted="false">Point your remote control at your Smart AC Control and press the temperature down button.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_pointTowardsAC_title" masx:attributed="" formatted="false">Point your remote control at the Smart AC Control</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_pointTowardsAC_message" masx:attributed="" formatted="false">In the next steps the Smart AC Control records command signals of your remote control. The distance should be max. 20 cm (8 inches).</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_pointTowardsAC_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordTempUp_title" masx:attributed="" formatted="false">Record Temperature Up</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordTempUp_message" masx:attributed="" formatted="false">Point your remote control at your Smart AC Control and press the temperature up button.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordPower_title" masx:attributed="" formatted="false">Record Power (On/Off)</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_recordPower_message" masx:attributed="" formatted="false">Point your remote control at your Smart AC Control and press the Power (On/Off) button.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_signalReceivedLabel" masx:attributed="" formatted="false">Remote control signal received.</string>
+  <string name="installation_sacc_setupAC_recordKeyCommands_retryButton" masx:attributed="" formatted="false">Repeat</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_highestTemperature_temperatureField" masx:attributed="" formatted="false">Highest temperature</string>
+  <!--15°C and 35°C / 59°F and 95°F.-->
+  <string name="installation_sacc_setupAC_createKeyCommandSet_highestTemperature_errors_temperatureFieldOutOfBounds" masx:attributed="" formatted="false">The temperature must be between {minTemp} and {maxTemp}.</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_highestTemperature_title" masx:attributed="" formatted="false">Highest temperature in Cool mode</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_highestTemperature_message" masx:attributed="attributed" formatted="false">Set your AC to **Cool mode**. Press the temperature up button until you reach the **highest temperature**.</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_highestTemperature_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_title" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_lowestTemperature_temperatureField" masx:attributed="" formatted="false">Lowest temperature</string>
+  <!--maxTemp=min(highestTemp-1, (35C/95F))
+minTemp = 10C or 50F-->
+  <string name="installation_sacc_setupAC_createKeyCommandSet_lowestTemperature_errors_temperatureFieldOutOfBounds" masx:attributed="" formatted="false">The temperature must be between {minTemp} and {maxTemp}.</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_lowestTemperature_title" masx:attributed="" formatted="false">Lowest temperature in Cool mode</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_lowestTemperature_message" masx:attributed="attributed" formatted="false">Set your AC to **Cool mode**. Press the temperature down button until you reach the **lowest temperature**.</string>
+  <string name="installation_sacc_setupAC_createKeyCommandSet_lowestTemperature_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_title" masx:attributed="" formatted="false">Testing Command Set</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_confirmCommandSet_message" masx:attributed="" formatted="false">Your AC will be controlled with this command set. Please make sure all commands work.</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_confirmCommandSet_confirmButton" masx:attributed="" formatted="false">Use this command set</string>
+  <!--Button text needs to be short too for Windows-->
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_confirmCommandSet_confirmButton_win" masx:attributed="" formatted="false">Use command set</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_confirmCommandSet_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_noCommandSetWorksButton" masx:attributed="" formatted="false">No command set works completely</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_commandSetList_title" masx:attributed="" formatted="false">Choose Command Set</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_useCommandSetButton" masx:attributed="" formatted="false">Use this Command Set</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_chooseCoomandSetButton" masx:attributed="" formatted="false">Choose Command Set</string>
+  <!--If text should be displayed in addition to loading indicator-->
+  <string name="installation_sacc_setupAC_selectCommandSet_testingCommandSets_sendingCommandLabel" masx:attributed="" formatted="false">Sending command</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_title" masx:attributed="" formatted="false">Testing</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingExplanation_message" masx:attributed="" formatted="false">Try and choose which of the {availableCommandSetCount} possible command signal sets works best.</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_testingExplanation_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_noSpecialModesSupported_message" masx:attributed="" formatted="false">Note: we do not support blowing direction and special modes like Eco right now.</string>
+  <string name="installation_sacc_setupAC_selectCommandSet_noSpecialModesSupported_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_prepareRemoteControl_title" masx:attributed="" formatted="false">Set the following settings on your remote</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_prepareRemoteControl_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_autoFanspeed_title" masx:attributed="" formatted="false">Does {modeName} mode have an “Auto” fan speed?</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_autoFanspeed_yesButton" masx:attributed="" formatted="false">Yes</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_autoFanspeed_noButton" masx:attributed="" formatted="false">No</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_fanSpeedParameter" masx:attributed="" formatted="false">fan speed {fanSpeed}</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_threeParameterTitle" masx:attributed="" formatted="false">Next run with {firstParameter}, {secondParameter} and {thirdParameter}</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_oneParameterTitle" masx:attributed="" formatted="false">Next run with {firstParameter}</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_swingParameter" masx:attributed="" formatted="false">swing {swingMode}</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_allTemperaturesParameter" masx:attributed="" formatted="false">all temperatures</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_twoParameterTitle" masx:attributed="" formatted="false">Next run with {firstParameter} and {secondParameter}</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_runOverview_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_temperatureField" masx:attributed="" formatted="false">Lowest temperature</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_errors_invalidFahrenheitTempError" masx:attributed="" formatted="false">The temperature must be between 59°F and {maxTemp}°F.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_errors_invalidCelsiusTempError" masx:attributed="" formatted="false">The temperature must be between 15°C and {maxTemp}°C.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_title" masx:attributed="" formatted="false">Lowest temperature in {modeName} mode</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_message" masx:attributed="attributed" formatted="false">Set your AC to **{modeName} mode**. Press the temperature down button until you reach the **lowest temperature**.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_minTemperature_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_title" masx:attributed="" formatted="false">Teaching</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeCapabilities_temperatureLabel" masx:attributed="" formatted="false">Temperature</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeCapabilities_swingLabel" masx:attributed="" formatted="false">Swing on/off</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeCapabilities_title" masx:attributed="" formatted="false">Choose all possible options the {modeName} mode has</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeCapabilities_fanspeedLabel" masx:attributed="" formatted="false">Fan speeds</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeCapabilities_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_errors_invalidFahrenheitTempError" masx:attributed="" formatted="false">The temperature must be between 60°F and 89°F.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_errors_invalidCelsiusTempError" masx:attributed="" formatted="false">The temperature must be between 16°C and 31°C.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_title" masx:attributed="" formatted="false">Highest Temperature in {modeName} mode</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_message" masx:attributed="attributed" formatted="false">Set your AC to **{modeName} mode**. Press the temperature up button until you reach the **highest temperature**.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_maxTemperature_highestTemperatureField" masx:attributed="" formatted="false">Highest temperature</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_fanSpeedsWithAutoLabel" masx:attributed="" formatted="false">How many fan speeds are supported by your AC in this mode besides Auto?</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_moreFanspeeds_title" masx:attributed="" formatted="false">Fan speeds</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_moreFanspeeds_message" masx:attributed="" formatted="false">Currently only 3 fan speeds (Low, Medium, High) and Auto are supported. Because you have more fan speeds, please choose the lowest for Low, a medium for Medium and the highest speed for High when you are asked to set a fan speed later in the process.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_moreFanspeeds_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_moreFanspeeds_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_moreLabel" masx:attributed="" formatted="false">More</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_fanSpeedsWithoutAutoLabel" masx:attributed="" formatted="false">How many fan speeds are supported by your AC in this mode?</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_fanspeedCount_onlyAutoLabel" masx:attributed="" formatted="false">Only Auto</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_redoRunLabel" masx:attributed="" formatted="false">Redo this run</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_waitingLabel" masx:attributed="" formatted="false">Waiting...</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_pressPowerLabel" masx:attributed="" formatted="false">Press the Power button</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_noSignalDetected_title" masx:attributed="" formatted="false">No signal detected</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_noSignalDetected_message" masx:attributed="" formatted="false">Sorry but something went wrong. We could not record a command signal. Do you want to retry the last recording or restart the whole run?</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_noSignalDetected_retryRunButton" masx:attributed="" formatted="false">Restart whole run</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_noSignalDetected_retryCommandButton" masx:attributed="" formatted="false">Retry last command</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_pressTempUpLabel" masx:attributed="" formatted="false">Press the Temperature Up Button</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_pressTempDownLabel" masx:attributed="" formatted="false">Press the Temperature Down button</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_recordingCompletedLabel" masx:attributed="" formatted="false">Recording completed.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_recording_pressPowerAgainLabel" masx:attributed="attributed" formatted="false">Press the Power button **again**</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_teachingExplanation_title" masx:attributed="" formatted="false">Record all command combinations</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_teachingExplanation_message" masx:attributed="" formatted="false">Your remote always sends all settings at a time. So you need to go through the possible combinations. But we will guide you.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_teachingExplanation_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_pointTowardsAC_title" masx:attributed="" formatted="false">Point your remote control at the Smart AC Control</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_pointTowardsAC_message" masx:attributed="" formatted="false">In the next steps the Smart AC Control records command signals of your remote control. The distance should be max. 20 cm (8 inches).</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_pointTowardsAC_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_endTeaching_title" masx:attributed="" formatted="false">End Teaching</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_endTeaching_message" masx:attributed="" formatted="false">If you end teaching now, you will only be able to use the modes already taught.</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_endTeaching_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_endTeaching_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_initialTitle" masx:attributed="" formatted="false">Choose a mode to teach</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_nextModeTitle" masx:attributed="" formatted="false">Choose the next mode to teach</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_completedTitle" masx:attributed="" formatted="false">Completed modes</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_recordACSettingCommands_modeSelection_completeLaterButton" masx:attributed="" formatted="false">Complete later</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_teachButton" masx:attributed="" formatted="false">Teach with remote control</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_title" masx:attributed="" formatted="false">Your AC does not react</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_chosenBrandLabel" masx:attributed="attributed" formatted="false">**{Brand}**
+is not the brand of your AC?
+Select another brand.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_message" masx:attributed="" formatted="false">The Smart AC Control might not have had visual contact to the AC: move it closer, point more accurately to the AC and try again.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_tryAgainButton" masx:attributed="" formatted="false">Try again</string>
+  <string name="installation_sacc_setupAC_onOffReduction_troubleshooting_changeBrandButton" masx:attributed="" formatted="false">Change Brand</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_errors_noCommandSets_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_errors_noCommandSets_message" masx:attributed="" formatted="false">The selected AC brand has no command signal sets.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_errors_noCommandSets_confirmButton" masx:attributed="" formatted="false">Re-select brand</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_multipleCommandSetsLabel" masx:attributed="" formatted="false">For {acBrand} there are {commandSetCount} command signals in our database. Find out which one works with your AC.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_singleCommandSetLabel" masx:attributed="" formatted="false">For {acBrand} there is 1 command signal in our database. Find out if it works with your AC.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_existingCommandSets_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinderExplanation_noResponseLabel" masx:attributed="" formatted="false">No response</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinderExplanation_acRespondsLabel" masx:attributed="" formatted="false">AC responds</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinderExplanation_message" masx:attributed="" formatted="false">We will go through the command signals one by one. Please answer for each if your AC is reacting to the on/off signals sent by the Smart AC Control.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinderExplanation_confirmButton" masx:attributed="" formatted="false">Start</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_description" masx:attributed="" formatted="false">For the next steps, hold it like a remote control with the front or bottom side toward the AC.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_errors_commandSetsNotLoaded_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_errors_commandSetsNotLoaded_message" masx:attributed="" formatted="false">Unable to load command signals.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_errors_commandSetsNotLoaded_confirmButton" masx:attributed="" formatted="false">Re-select brand</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_errors_commandSetsNotLoaded_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_errors_commandSetsNotLoaded_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_message" masx:attributed="" formatted="false">Point the Smart AC Control towards the AC unit</string>
+  <string name="installation_sacc_setupAC_onOffReduction_pointTowardsAC_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_description" masx:attributed="" formatted="false">tado° will send several signals to your AC. Decide for each if the AC responds. This will take a few minutes.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_noResponseLabel" masx:attributed="" formatted="false">No response</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_testingFailed_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_testingFailed_message" masx:attributed="" formatted="false">Connecting to the server has failed. Please check your Internet connection.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_testingFailed_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_ratingFailed_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_ratingFailed_message" masx:attributed="" formatted="false">Connecting to the server has failed. Please check your Internet connection.</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_ratingFailed_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_errors_ratingFailed_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_signalLabel" masx:attributed="" formatted="false">Signal: {currentSignal}/{signalCount}</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_backButton" masx:attributed="" formatted="false">Back to previous</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_acRespondsLabel" masx:attributed="" formatted="false">AC responds</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_message" masx:attributed="" formatted="false">Does the AC respond?</string>
+  <string name="installation_sacc_setupAC_onOffReduction_acTinder_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_heatLabel" masx:attributed="" formatted="false">Heat</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_coolLabel" masx:attributed="" formatted="false">Cool</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_fanLabel" masx:attributed="" formatted="false">Fan</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_dryLabel" masx:attributed="" formatted="false">Dry</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_title" masx:attributed="" formatted="false">Choose the modes your AC supports</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_autoLabel" masx:attributed="" formatted="false">Auto</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_supportedModesSelection_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_title" masx:attributed="" formatted="false">Teaching</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_acFunctions_title" masx:attributed="" formatted="false">Functions of your AC</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_acFunctions_message" masx:attributed="" formatted="false">Please get your remote control to find out which functions your AC has.</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_acFunctions_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_teachingExplanation_title" masx:attributed="" formatted="false">Teach Smart AC Control</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_teachingExplanation_message" masx:attributed="" formatted="false">You need to teach the commands of your remote control to the Smart AC Control.</string>
+  <string name="installation_sacc_setupAC_createACSettingRecording_teachingExplanation_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_uploadCommandTable_updating_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_uploadCommandTable_updating_title" masx:attributed="" formatted="false">Updating</string>
+  <string name="installation_sacc_uploadCommandTable_updating_message" masx:attributed="" formatted="false">Your Smart AC Control is downloading all command signals for your AC.</string>
+  <string name="installation_sacc_uploadCommandTable_updating_updateFailedMessage" masx:attributed="" formatted="false">The download of the command signals for your AC failed. Please go to troubleshooting.</string>
+  <string name="installation_sacc_uploadCommandTable_updating_updateFailedTitle" masx:attributed="" formatted="false">Update failed</string>
+  <!--Do not translate-->
+  <string name="installation_sacc_uploadCommandTable_updating_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/205805085</string>
+  <string name="installation_sacc_uploadCommandTable_title" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="installation_sacc_uploadCommandTable_completed_message" masx:attributed="" formatted="false">The setup for your AC is complete now!</string>
+  <string name="installation_sacc_uploadCommandTable_completed_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_acSpecs_title" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="installation_sacc_acSpecs_brandSelection_brandSelectionField" masx:attributed="" formatted="false">Brand</string>
+  <string name="installation_sacc_acSpecs_brandSelection_title" masx:attributed="" formatted="false">Choose your AC Brand</string>
+  <!--Error message if search text does not match any manufacturer-->
+  <string name="installation_sacc_acSpecs_brandSelection_brandSearch_errors_noBrandFoundError" masx:attributed="" formatted="false">No brand with this name found.</string>
+  <string name="installation_sacc_acSpecs_brandSelection_brandSearch_title" masx:attributed="" formatted="false">Choose Brand</string>
+  <string name="installation_sacc_acSpecs_brandSelection_brandSearch_searchField" masx:attributed="" formatted="false">Search</string>
+  <string name="installation_sacc_acSpecs_brandSelection_customBrandButton" masx:attributed="" formatted="false">I can’t find my brand</string>
+  <string name="installation_sacc_acSpecs_brandSelection_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_acSpecs_customBrand_errors_brandFieldEmptyError" masx:attributed="" formatted="false">Please enter your AC brand</string>
+  <string name="installation_sacc_acSpecs_customBrand_brandField" masx:attributed="" formatted="false">Brand</string>
+  <string name="installation_sacc_acSpecs_customBrand_title" masx:attributed="" formatted="false">Type in your AC brand</string>
+  <string name="installation_sacc_acSpecs_customBrand_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_acSpecs_acDisplay_title" masx:attributed="" formatted="false">Does your AC have a display?</string>
+  <string name="installation_sacc_acSpecs_acDisplay_noLabel" masx:attributed="" formatted="false">No</string>
+  <string name="installation_sacc_acSpecs_acDisplay_yesLabel" masx:attributed="" formatted="false">Yes</string>
+  <string name="installation_sacc_acSpecs_temperatureUnit_fahrenheitLabel" masx:attributed="" formatted="false">Fahrenheit</string>
+  <string name="installation_sacc_acSpecs_temperatureUnit_title" masx:attributed="" formatted="false">Choose the temperature unit of your AC</string>
+  <string name="installation_sacc_acSpecs_temperatureUnit_celsiusLabel" masx:attributed="" formatted="false">Celsius</string>
+  <string name="installation_sacc_acSpecs_remoteControlDisplayType_roomTemperatureLabel" masx:attributed="" formatted="false">Only the measured room temperature</string>
+  <string name="installation_sacc_acSpecs_remoteControlDisplayType_title" masx:attributed="" formatted="false">What does the display of the remote control show?</string>
+  <string name="installation_sacc_acSpecs_remoteControlDisplayType_acSettingsLabel" masx:attributed="" formatted="false">The current AC settings</string>
+  <string name="installation_sacc_acSpecs_remoteControlType_title" masx:attributed="" formatted="false">Choose the type of remote control you have</string>
+  <string name="installation_sacc_acSpecs_remoteControlType_withoutDisplayLabel" masx:attributed="" formatted="false">Without display</string>
+  <string name="installation_sacc_acSpecs_remoteControlType_withDisplayLabel" masx:attributed="" formatted="false">With display</string>
+  <string name="installation_sacc_connectWifi_serverConnection_title" masx:attributed="" formatted="false">Server Connection</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_troubleshootingLabel" masx:attributed="" formatted="false">In all other cases refer to our troubleshooting guide.</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_title" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_message" masx:attributed="" formatted="false">If the display of your Smart AC Control shows the number {fourDigitSerial} restart the connection process.</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206267373</string>
+  <string name="installation_sacc_connectWifi_serverConnection_troubleshooting_confirmButton" masx:attributed="" formatted="false">Restart Connection Process</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connected_title" masx:attributed="" formatted="false">Connected</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connected_message" masx:attributed="" formatted="false">Your Smart AC Control is now connected to the server.</string>
+  <!--Not clear to me where this is used-->
+  <string name="installation_sacc_connectWifi_serverConnection_connected_successLabel" masx:attributed="" formatted="false">Successfully connected</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connected_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_longConnectionTimeout_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_longConnectionTimeout_title" masx:attributed="" formatted="false">Still connecting</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_longConnectionTimeout_message" masx:attributed="" formatted="false">Your Smart AC Control takes longer than expected to join your Wi-Fi and connect to the server.</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_longConnectionTimeout_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206267373</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_longConnectionTimeout_connectingLabel" masx:attributed="" formatted="false">Connecting</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_title" masx:attributed="" formatted="false">Connecting to Server</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_checkConnectionLabel" masx:attributed="" formatted="false">Make sure that your mobile is connected to the internet. It might not have reconnected to your home Wi-Fi.</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_message" masx:attributed="" formatted="false">Your Smart AC Control tries to join your Wi-Fi and to connect to the server. This can take up to 2 minutes.</string>
+  <string name="installation_sacc_connectWifi_serverConnection_connecting_connectingLabel" masx:attributed="" formatted="false">Connecting</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_errors_networkFieldEmptyError" masx:attributed="" formatted="false">Please enter the name of the Wi-Fi network.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_errors_securityFieldEmptyError" masx:attributed="" formatted="false">Please select the security of your Wi-Fi.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_errors_passwordFieldEmptyError" masx:attributed="" formatted="false">Please enter the password for the Wi-Fi.</string>
+  <!--Error message if minimum password size is not met (i.e., for WPA at least 8 characters)-->
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_errors_passwordFieldMinimumLengthError" masx:attributed="" formatted="false">Please enter a password with at least 8 characters.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_openSecurityLabel" masx:attributed="" formatted="false">OPEN</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_securityField" masx:attributed="" formatted="false">Security</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_wpaSecurityLabel" masx:attributed="" formatted="false">WPA</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_message" masx:attributed="" formatted="false">Enter your Wi-Fi connection details</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_wpa2SecurityLabel" masx:attributed="" formatted="false">WPA2</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_wepSecurityLabel" masx:attributed="" formatted="false">WEP</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_customWifi_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_chooseWifi_wifiNotListedButton" masx:attributed="" formatted="false">My Wi-Fi is not listed</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_chooseWifi_errors_noWifiFoundError" masx:attributed="" formatted="false">No Wi-Fi Networks were found by your Smart AC Control.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_chooseWifi_message" masx:attributed="" formatted="false">Choose your Wi-Fi network</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_networkField" masx:attributed="" formatted="false">Network Name</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_passwordField" masx:attributed="" formatted="false">Password</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_title" masx:attributed="" formatted="false">Wi-Fi Connection</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_wifiCredentials_confirmButton" masx:attributed="" formatted="false">Connect</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_notConnectedToWifiError" masx:attributed="attributed" formatted="false">You are not connected to any Wi-Fi network. Please connect to the Wi-Fi **{tadoSsid}** of your Smart AC Control.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_saccWifiConnectionError" masx:attributed="" formatted="false">Connecting to your Smart AC Control has failed. Please retry.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_title" masx:attributed="" formatted="false">Error</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_notConnectedToTadoWifiError" masx:attributed="attributed" formatted="false">You are not connected to the Wi-Fi network of your Smart AC Control. Please connect to the Wi-Fi **{tadoSsid}**.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_wacConnectionError_title_iOS" masx:attributed="" formatted="false">Can’t Connect</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_wacConnectionError_message_iOS" masx:attributed="" formatted="false">Please make sure you are connected to your Wi-Fi network and there is Internet connection. Restart the app to try again.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_wacConnectionError_confirmButton_iOS" masx:attributed="" formatted="false">OK</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206267333</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_errors_retryButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_chooseNetwork_errors_noWifiFoundError_iOS" masx:attributed="" formatted="false">No Wi-Fi networks were found by your Smart AC Control.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_chooseNetwork_message_iOS" masx:attributed="" formatted="false">Choose your Wi-Fi Network</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_chooseNetwork_otherNetworksLabel_iOS" masx:attributed="" formatted="false">Choose other network...</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceFound_description" masx:attributed="" formatted="false">Connect to your Smart AC Control to set up the Wi-Fi connection.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceFound_message" masx:attributed="" formatted="false">Device Found</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceFound_confirmButton" masx:attributed="" formatted="false">Set Up</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_title" masx:attributed="" formatted="false">Wi-Fi Connection</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_description_iOS" masx:attributed="attributed" formatted="false">Open the Wi-Fi section in the settings and select the network **{tadoSsid}**.
+
+If it is not in the list, select Other… and enter the name **{tadoSsid}** manually.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_troubleshootingButton_iOS" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_waitingLabel_iOS" masx:attributed="" formatted="false">Waiting for connection</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_message_iOS" masx:attributed="" formatted="false">Connect app to device</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_troubleshootingURL_iOS" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206267333</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectionInstructions_confirmButton_iOS" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_enterPassword_passwordField_iOS" masx:attributed="" formatted="false">Password</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_enterPassword_message_iOS" masx:attributed="" formatted="false">Type in the password for {networkName}</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_description" masx:attributed="attributed" formatted="false">Can’t find device **{serialNo}**</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_troubleshootingButton" masx:attributed="" formatted="false">Troubleshooting</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_message" masx:attributed="" formatted="false">No device found</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_manualSetupButton_iOS" masx:attributed="" formatted="false">Set Up Manually</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_troubleshootingURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/206267333</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_deviceNotFound_confirmButton" masx:attributed="" formatted="false">Retry</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectedToDevice_message" masx:attributed="" formatted="false">Connected</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectedToDevice_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectingToDevice_description" masx:attributed="" formatted="false">Searching for your Smart AC Control.</string>
+  <string name="installation_sacc_connectWifi_wifiSetup_connectingToDevice_message" masx:attributed="" formatted="false">Connecting to device...</string>
+  <!--Displayed as the title of the button that later turns into the Set Up button.-->
+  <string name="installation_sacc_connectWifi_wifiSetup_connectingToDevice_connectingLabel_iOS" masx:attributed="" formatted="false">Connecting</string>
+  <string name="installation_sacc_connectWifi_powerSupply_description" masx:attributed="" formatted="false">Plug the USB cable on the back of the device and connect to power.</string>
+  <string name="installation_sacc_connectWifi_powerSupply_title" masx:attributed="" formatted="false">Power Supply</string>
+  <string name="installation_sacc_connectWifi_powerSupply_message" masx:attributed="" formatted="false">Connect to power</string>
+  <string name="installation_sacc_connectWifi_powerSupply_confirmButton" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_installationSelection_alreadyInstalledLinkLabel_web" masx:attributed="" formatted="false">My tado° is already installed. I want to connect it to my account</string>
+  <string name="installation_installationSelection_title_web" masx:attributed="" formatted="false">How do you want to install your tado° devices?</string>
+  <string name="installation_installationSelection_installationInstructionsLinkLabel_web" masx:attributed="" formatted="false">Install myself with customised step-by-step instructions</string>
+  <string name="installation_installationSelection_bookInstallerLinkLabel_web" masx:attributed="" formatted="false">Book Installation Service</string>
+  <string name="installation_unfinishedInstallation_title_web" masx:attributed="" formatted="false">Unfinished installation</string>
+  <string name="installation_unfinishedInstallation_proceedButton_web" masx:attributed="" formatted="false">Resume Installation</string>
+  <string name="installation_unfinishedInstallation_message_web" masx:attributed="" formatted="false">There is an unfinished installation.</string>
+  <string name="installation_connectBridge_proceedButton_web" masx:attributed="" formatted="false">Continue</string>
+  <string name="installation_contactSupport_message" masx:attributed="attributed" formatted="false">To proceed with the installation please call our customer support. You can find the right number for your country in our [Help Center](https://tado.com/support).</string>
+  <string name="installation_installationCompleted_addDeviceButton_web" masx:attributed="" formatted="false">Add another device</string>
+  <string name="installation_installationCompleted_title_web" masx:attributed="" formatted="false">Congratulations!</string>
+  <string name="installation_installationCompleted_message_web" masx:attributed="" formatted="false">You have finished the installation. You can now add additional devices to your home or download the mobile app.</string>
+  <string name="installation_installationCompleted_doneButton_web" masx:attributed="" formatted="false">Done</string>
+  <string name="installation_assignZone_helpMessage_web" masx:attributed="" formatted="false">Smart Radiator Thermostats in the same zone are synchronised. If you change the temperature on one the others are notified.</string>
+  <string name="installation_assignZone_title_web" masx:attributed="" formatted="false">Select the zone, in which the Smart Radiator Thermostat is located.</string>
+  <string name="installation_assignZone_existingZoneLabel_web" masx:attributed="" formatted="false">Choose from existing zones</string>
+  <string name="installation_assignZone_proceedButton_web" masx:attributed="" formatted="false">Select</string>
+  <string name="installation_assignZone_newZoneField_web" masx:attributed="" formatted="false">Enter zone name</string>
+  <string name="installation_assignZone_newZoneLabel_web" masx:attributed="" formatted="false">Create a new zone</string>
+  <string name="installation_installationOverview_title_web" masx:attributed="" formatted="false">The following devices are not completely installed. Please choose a device to resume the installation.</string>
+  <string name="installation_productSelection_smartACControl_title_web" masx:attributed="" formatted="false">Use tado° mobile app for installation</string>
+  <string name="installation_productSelection_smartACControl_message_web" masx:attributed="" formatted="false">For installation of the Smart AC Control, please download the tado° mobile app in the App Store, Google play or Windows Store with your smart phone or tablet.</string>
+  <string name="installation_productSelection_smartThermostatButton" masx:attributed="" formatted="false">Smart Thermostat</string>
+  <string name="installation_productSelection_smartACControlButton" masx:attributed="" formatted="false">Smart AC Control</string>
+  <string name="installation_productSelection_connectorKitButton" masx:attributed="" formatted="false">Connector Kit (2013)</string>
+  <string name="installation_productSelection_title" masx:attributed="" formatted="false">Choose product</string>
+  <string name="installation_productSelection_message" masx:attributed="" formatted="false">Choose the product to install</string>
+  <string name="installation_productSelection_connectorKit_title" masx:attributed="" formatted="false">Connector Kit (2013)</string>
+  <string name="installation_productSelection_connectorKit_message" masx:attributed="attributed" formatted="false">To install your Connector Kit please call our customer support. You can find the right number for your country in our [Help Center](https://tado.com/support).</string>
+  <string name="installation_productSelection_extensionKitButton" masx:attributed="" formatted="false">Extension Kit</string>
+  <string name="installation_productSelection_smartThermostat_title" masx:attributed="" formatted="false">Installation</string>
+  <string name="installation_productSelection_smartThermostat_message" masx:attributed="attributed" formatted="false">For installation open **www.tado.com/login** on your tablet, PC or Mac.</string>
+  <string name="installation_productSelection_smartThermostat_hagerMessage" masx:attributed="attributed" formatted="false">For installation open **hager.com/smartthermostat/start** on your tablet, PC or Mac.</string>
+  <string name="installation_productSelection_smartRadiatorThermostat_title" masx:attributed="" formatted="false">Installation</string>
+  <string name="installation_productSelection_smartRadiatorThermostat_message" masx:attributed="attributed" formatted="false">For installation open **www.tado.com/login** on your tablet, PC or Mac.</string>
+  <string name="installation_productSelection_smartRadiatorThermostatButton" masx:attributed="" formatted="false">Smart Radiator Thermostat</string>
+  <string name="installation_productSelection_extensionKit_title" masx:attributed="" formatted="false">Installation</string>
+  <string name="installation_productSelection_extensionKit_message" masx:attributed="attributed" formatted="false">For installation open **www.tado.com/login** on your tablet, PC or Mac.</string>
+  <string name="installation_installerId_noWarrantyTitle_web" masx:attributed="" formatted="false">Which installer has installed your tado° devices?</string>
+  <string name="installation_installerId_skipButton_web" masx:attributed="" formatted="false">No, thanks</string>
+  <string name="installation_installerId_helpMessage_web" masx:attributed="" formatted="false">Please ask your installer for it.</string>
+  <string name="installation_installerId_title_web" masx:attributed="" formatted="false">Activate the extended 5 year warranty</string>
+  <string name="installation_installerId_sendButton_web" masx:attributed="" formatted="false">Send</string>
+  <string name="installation_installerId_installerIdField_web" masx:attributed="" formatted="false">Installer ID / VAT number</string>
+  <string name="installation_installerId_installerIdLabel_web" masx:attributed="" formatted="false">Your installer</string>
+  <string name="installation_installerId_activateButton_web" masx:attributed="" formatted="false">Activate</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:masx="http://tado.com/ns/masx/1">
+  <string name="settings_expertSettings_title_web" masx:attributed="" formatted="false">Expert Settings</string>
+  <string name="settings_backButtonLabel_web" masx:attributed="" formatted="false">Back</string>
+  <string name="settings_password_updateButton_web" masx:attributed="" formatted="false">Update Password</string>
+  <string name="settings_password_titleLabel_web" masx:attributed="" formatted="false">Password</string>
+  <string name="settings_password_changePasswordLabel_web" masx:attributed="" formatted="false">Change Password</string>
+  <string name="settings_title_web" masx:attributed="" formatted="false">Settings</string>
+  <string name="settings_saveButtonLabel_web" masx:attributed="" formatted="false">Save</string>
+  <string name="settings_homeSettingsSectionTitle_web" masx:attributed="" formatted="false">Home Settings</string>
+  <string name="settings_personalAccountSectionTitle_web" masx:attributed="" formatted="false">Personal Account</string>
+  <string name="settings_accountSettings_title_web" masx:attributed="" formatted="false">Account Info</string>
+  <string name="settings_info_about_openWeatherMapAbout" masx:attributed="attributed" formatted="false">[Weather data ](http://openweathermap.org) by [OpenWeatherMap.org](http://openweathermap.org/about) is licensed under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0/).</string>
+  <string name="settings_info_about_title" masx:attributed="" formatted="false">About</string>
+  <string name="settings_info_title" masx:attributed="" formatted="false">Info</string>
+  <string name="settings_zoneSettings_terminationCondition_descriptionLabel_web" masx:attributed="" formatted="false">Changing settings on the tado° device starts Manual Control. Choose how long it should stay active.</string>
+  <string name="settings_zoneSettings_terminationCondition_title_web" masx:attributed="" formatted="false">Manual Control on tado° device</string>
+  <string name="settings_zoneSettings_terminationCondition_mode_timerDescriptionLabel_web" masx:attributed="" formatted="false">&lt;p&gt;Any setting change set on the tado° device will remain active for the selected time span.&lt;/p&gt;&lt;p&gt;If you apply any more changes during this time the timer is not restarted.&lt;p&gt;</string>
+  <string name="settings_zoneSettings_terminationCondition_mode_manualDescriptionLabel_web" masx:attributed="" formatted="false">&lt;p&gt;Any setting change set on the tado° device will remain active until a user ends Manual Control.&lt;/p&gt;</string>
+  <string name="settings_zoneSettings_terminationCondition_mode_tadoModeDescriptionLabel_web" masx:attributed="" formatted="false">&lt;p&gt;Any setting change on the tado° device will remain active until the next time block in the Smart Schedule, or until residents leave or arrive.&lt;/p&gt;</string>
+  <string name="settings_zoneSettings_zoneNameLabel_web" masx:attributed="" formatted="false">Zone Name</string>
+  <string name="settings_zoneSettings_measurements_measurementsInfoLabel" masx:attributed="attributed" formatted="false">Choose which device should measure temperature and humidity of this zone. [Learn more](https://support.tado.com/hc/en-gb/articles/201587409-I-think-that-the-real-inside-temperature-is-higher-lower-than-tado-is-showing-what-can-I-do-)</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_temperatureLabel" masx:attributed="" formatted="false">Current Temperature</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetLabel" masx:attributed="" formatted="false">Offset</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetConfirmation_changesTakeLongTimeMessage" masx:attributed="" formatted="false">It may take up to 40 minutes for the changes to become active.</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetConfirmation_changesTakeTimeMessage" masx:attributed="" formatted="false">It may take some minutes for the changes to become active.</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetConfirmation_title" masx:attributed="" formatted="false">Adjust Temperature Measurement</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetConfirmation_confirmButton" masx:attributed="" formatted="false">OK</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_adjustButtonLabel" masx:attributed="" formatted="false">Adjust</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_cancelButton" masx:attributed="" formatted="false">Cancel</string>
+  <string name="settings_zoneSettings_measurements_temperatureOffset_offsetDescription" masx:attributed="" formatted="false">Depending on where the device sits, the measured temperature might be different from the actual temperature in the middle of the room. Here you can correct the temperature measured.</string>
+  <string name="settings_zoneSettings_measurements_title" masx:attributed="" formatted="false">Measurements</string>
+  <string name="settings_zoneSettings_measurements_measuringDeviceLabel" masx:attributed="" formatted="false">Measuring Device</string>
+  <string name="settings_zoneSettings_measurements_offsetLabel" masx:attributed="" formatted="false">Temperature Offset</string>
+  <string name="settings_zoneSettings_measurements_measuringDevice_identifyButton" masx:attributed="" formatted="false">Identify</string>
+  <string name="settings_zoneSettings_airConditioning_commandSet_descriptionLabel_web" masx:attributed="" formatted="false">An AC is controlled by a set of command signals.&lt;br/&gt; Below are the sets that may work with your AC. If the current one does not work well, try downloading another one to your Smart AC Control.</string>
+  <string name="settings_zoneSettings_airConditioning_commandSet_title_web" masx:attributed="" formatted="false">Command Set</string>
+  <string name="settings_zoneSettings_airConditioning_reset_descriptionLabel_web" masx:attributed="" formatted="false">Want to use your Smart AC Control with another AC or restart the setup process?</string>
+  <string name="settings_zoneSettings_airConditioning_reset_resetButtonLabel_web" masx:attributed="" formatted="false">Reset AC</string>
+  <string name="settings_zoneSettings_airConditioning_reset_title_web" masx:attributed="" formatted="false">Reset</string>
+  <string name="settings_zoneSettings_airConditioning_reset_confirm_confirmButtonLabel_web" masx:attributed="" formatted="false">Reset AC</string>
+  <string name="settings_zoneSettings_airConditioning_reset_confirm_descriptionLabel_web" masx:attributed="" formatted="false">This will delete all AC related settings and restart the AC setup process.</string>
+  <string name="settings_zoneSettings_airConditioning_reset_confirm_title_web" masx:attributed="" formatted="false">Reset AC</string>
+  <string name="settings_zoneSettings_airConditioning_reset_confirm_cancelButtonLabel_web" masx:attributed="" formatted="false">Cancel</string>
+  <string name="settings_zoneSettings_airConditioning_title_web" masx:attributed="" formatted="false">AC Setup</string>
+  <string name="settings_zoneSettings_airConditioning_manufacturerLabel_web" masx:attributed="" formatted="false">Manufacturer</string>
+  <string name="settings_zonesSectionTitle_web" masx:attributed="" formatted="false">Zones</string>
+  <!--Name of german language displayed in a language selector-->
+  <string name="settings_language_deLabel_web" masx:attributed="" formatted="false">Deutsch</string>
+  <string name="settings_language_titleLabel_web" masx:attributed="" formatted="false">Language</string>
+  <string name="settings_language_itLabel_web" masx:attributed="" formatted="false">Italiano</string>
+  <string name="settings_language_enLabel_web" masx:attributed="" formatted="false">English</string>
+  <string name="settings_language_esLabel_web" masx:attributed="" formatted="false">Español</string>
+  <string name="settings_language_frLabel_web" masx:attributed="" formatted="false">Français</string>
+  <string name="settings_roommates_descriptionLabel_web" masx:attributed="" formatted="false">Invite additional roommates so that they can use tado°.</string>
+  <string name="settings_roommates_inviteRoommatesButtonLabel_web" masx:attributed="" formatted="false">Invite Roommates</string>
+  <string name="settings_roommates_title_web" masx:attributed="" formatted="false">Roommates</string>
+  <!--Will be removed once we have the new invitations functionality (see https://github.com/tadodotcom/Product/issues/61).-->
+  <string name="settings_roommates_upcoming_web" masx:attributed="" formatted="false">Soon, you will be able to list the accounts of all roommates of your home here and manage open invitations.</string>
+  <string name="settings_airConditioning_resetWifiCredentials_title" masx:attributed="" formatted="false">Reset Wi-Fi credentials</string>
+  <string name="settings_airConditioning_resetWifiCredentials_message" masx:attributed="attributed" formatted="false">Delete the Wi-Fi credentials on your Smart AC Control and wait until it shows **{deviceDisplayText}**.</string>
+  <string name="settings_airConditioning_resetWifiCredentials_instructionsButton" masx:attributed="" formatted="false">See how</string>
+  <string name="settings_airConditioning_resetWifiCredentials_instructionsURL" masx:attributed="" formatted="false">https://support.tado.com/hc/articles/205022159</string>
+  <string name="settings_airConditioning_resetWifiCredentials_confirmButton" masx:attributed="" formatted="false">Next</string>
+  <!--Used for Wi-Fi section with, e.g. the Reset Wi-Fi Credentials button.-->
+  <string name="settings_airConditioning_wifiLabel_win" masx:attributed="" formatted="false">Wi-Fi</string>
+  <string name="settings_airConditioning_resetWifiCredentialsButton" masx:attributed="" formatted="false">Reset Wi-Fi credentials</string>
+  <string name="settings_mobileDevices_descriptionLabel_web" masx:attributed="" formatted="false">List of all mobile devices that have the tado app installed. Deleting a device will prevent using the tado app on that device.</string>
+  <string name="settings_mobileDevices_title_web" masx:attributed="" formatted="false">Mobile Devices</string>
+  <string name="settings_mobileDevices_deleteButtonLabel_web" masx:attributed="" formatted="false">Delete</string>
+  <string name="settings_homeDetails_title_web" masx:attributed="" formatted="false">Home Details</string>
+</resources>
